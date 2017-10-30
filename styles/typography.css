@@ -1,0 +1,47 @@
+body{
+	font-size:80%;
+	font-family:"Helvetica","Arial",sans-serif;
+}
+body *{
+	font-size:1em;
+}
+a{
+	font-weight:bold;
+	text-decoration:none;
+}
+header nav a{
+	font-size:1em;
+	font-weight:bold;
+	text-decoration:none;
+}
+article{
+	line-height:1.8em;
+}
+article p{
+	margin:1em 0;
+}
+h1{
+	font:2.4em normal;
+}
+h2{
+	font:1.8em normal;
+	margin-top:1em;
+}
+h3{
+	font:1.4em normal;
+	margin-top:1em;
+}
+#imagegallery li{
+	list-style-type:none;
+}
+article nav ul{
+    list-style-type:none;
+    margin:1em 0;
+}
+#p_imagegallery{
+	margin:1em 0;
+}
+#p_imagegallery li{
+	list-style-type:none;
+	display:inline;
+}

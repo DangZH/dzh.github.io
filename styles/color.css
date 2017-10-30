@@ -1,0 +1,72 @@
+body{
+	color: rgb(0,0,0);
+	background-color: rgb(66,76,80);
+}
+a:link{
+	color: rgb(0,0,0);
+	background-color: rgb(255,151,87);
+}
+a:visited{
+	color: rgb(0,0,0);
+	background-color: rgb(255,151,87);
+}
+a:hover{
+	color: rgb(0,0,0);
+	background-color: rgb(171,217,194);
+}
+a:active{
+	color: rgb(0,0,0);
+	background-color: rgb(237,233,199);
+}
+header{
+	color: rgb(255,255,255);
+	background-color: rgb(0,0,0);
+	border-color:rgb(106,119,108);
+}
+header nav{
+	color: rgb(255,255,255);
+	background-color:rgb(171,217,194);
+	border-color:rgb(171,217,194);
+}
+article{
+	color: rgb(0,0,0);
+	background-color: rgb(251,252,215);
+	border-color:rgb(106,119,108);
+}
+header nav ul{
+	border-color:rgb(243,249,241);
+}
+header nav li a{
+	border-color:rgb(243,249,241);
+}
+header nav a:link,header nav a:visited{
+	color: rgb(0,0,0);
+	background-color: rgb(171,217,194);
+}
+header nav a:hover{
+	color: rgb(0,0,0);
+	background-color: rgb(255,151,87);
+}
+header nav a:active{
+	color: rgb(0,0,0);
+	background-color: rgb(237,233,199);
+}
+article img{
+	border:1px solid rgb(0,0,0);
+}
+/*#imagegallery a{*/
+	/*background-color:transparent;*/
+/*}*/
+header nav a.here:link,
+header nav a.here:visited,
+header nav a.here:hover,
+header nav a.here:active{
+	color:rgb(0,0,0);
+	background-color:rgb(255,151,87);
+}
+#p_imagegallery li a:link,
+#p_imagegallery li a:visited,
+#p_imagegallery li a:hover,
+#p_imagegallery li a:active{
+	background-color: rgb(251,252,215);
+}
